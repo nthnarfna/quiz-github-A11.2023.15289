@@ -1,5 +1,3 @@
-# Quiz GitHub - Bengkel Koding
-
 ## Data Mahasiswa
 - **Nama:** Nathanael Arifana
 - **NIM:** A11.2023.15289
